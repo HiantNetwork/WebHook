@@ -1,0 +1,4 @@
+embeds/*
+node_modules/
+package-lock.json
+!embeds/example.js
